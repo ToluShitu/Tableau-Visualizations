@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-Project consists of
+This project involves the creation of an interactive and data-driven dashboard in Tableau, using US movies dataset between 2000 - 2017 based on popularity and revenue earned.
 <br />
 
 
