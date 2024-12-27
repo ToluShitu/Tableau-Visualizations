@@ -19,8 +19,10 @@ This project involves the creation of an interactive and data-driven dashboard i
 <p align="center">
 Visualization with Bubble Chart: <br/>
 <img src="https://imgur.com/Sa59sHV.png" height="80%" width="80%" alt="Bubble Chart"/>
+
 <br />
 <br />
+
 
 
 <!--
